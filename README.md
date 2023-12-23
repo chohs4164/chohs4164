@@ -1,7 +1,8 @@
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchohs4164&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Languages
-
+## Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -9,6 +10,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
 
 ## GitHub 통계
 
@@ -20,7 +22,20 @@
 ## 연락처
 [![Naver Email](https://img.shields.io/badge/Naver%20Email-03C75A?style=flat&logo=naver&logoColor=white)](chohs4164@naver.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](chohs173300@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/[billion_h_s])
+<p align="left">
+<a href="https://fb.com/조현승" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="조현승" height="30" width="40" /></a>
+<a href="https://instagram.com/billion_h_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="billion_h_s" height="30" width="40" /></a>
+</p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chohs4164)](https://solved.ac/chohs4164)
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chohs4164" alt="chohs4164" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chohs4164&" alt="chohs4164" /></p>
+
 
