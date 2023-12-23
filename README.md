@@ -10,31 +10,30 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-## GitHub 통계
+## GitHub statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chohs4164&theme=rose_pine&show_icons=true&count_private=true&hide=contribs) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chohs4164&theme=rose_pine&layout=compact)
 
 
 
-## 연락처
-[![Naver Email](https://img.shields.io/badge/Naver%20Email-03C75A?style=flat&logo=naver&logoColor=white)](chohs4164@naver.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](chohs173300@gmail.com)
-<p align="left">
-<a href="https://fb.com/조현승" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="조현승" height="30" width="40" /></a>
-<a href="https://instagram.com/billion_h_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="billion_h_s" height="30" width="40" /></a>
-</p>
+## Contact
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chohs173300@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/billion_h_s)
+
+
+
+## Solve.ac statistics
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chohs4164)](https://solved.ac/chohs4164)
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chohs4164" alt="chohs4164" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chohs4164&" alt="chohs4164" /></p>
 
