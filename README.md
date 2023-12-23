@@ -12,7 +12,10 @@
 
 ## GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chohs4164&theme=rose_pine&show_icons=true&count_private=true&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chohs4164&theme=rose_pine&show_icons=true&count_private=true&hide=contribs) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chohs4164&theme=rose_pine&layout=compact)
+
+
 
 ## 연락처
 [![Naver Email](https://img.shields.io/badge/Naver%20Email-03C75A?style=flat&logo=naver&logoColor=white)](chohs4164@naver.com)
@@ -21,4 +24,3 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chohs4164)](https://solved.ac/chohs4164)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chohs4164&layout=compact)
