@@ -10,7 +10,7 @@
 
 ## GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chohs4164&show_icons=true&count_private=true&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chohs4164&theme=rose_pine&show_icons=true&count_private=true&hide=contribs)
 
 ## 연락처
 [![Naver Email](https://img.shields.io/badge/Naver%20Email-03C75A?style=flat&logo=naver&logoColor=white)](chohs4164@naver.com)
