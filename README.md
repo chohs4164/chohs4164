@@ -1,8 +1,26 @@
 # 🚀 Hello, I'm Hyun-seung Cho!
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chohs4164"/>
+</a>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=B19CD9&height=250&section=header&text=HyunSeung%20Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Enthusiast;Building+Sustainable+Architecture;Always+Asking+Why" alt="Typing SVG" />
+</p>
+
 ## 👋 About Me
-> **Android Developer focused on clean architecture and state-driven UI**
+> **Android Developer focused on clean architecture and state-driven UI**  
 > *Currently pursuing Computer Science, deep diving into collaborative engineering cultures.*
+
+<p align="center">
+  <i>"Code that works. Architecture that lasts."</i>
+</p>
 
 * 💻 **What I Do:** I love designing Android applications, practicing strict separation of concerns, and writing scalable, Object-Oriented code.
 * 🤝 **My Passion:** I am deeply passionate about communication, bridging ideas, and building a healthy engineering culture where people grow together.
@@ -73,6 +91,14 @@ When adopting new tech stacks or design patterns, I always start with the questi
 - [Compose에서 Activity는 어떤 역할을 할까?](https://velog.io/@chohs4164/Compose%EC%97%90%EC%84%9C-Activity%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%97%AD%ED%95%A0%EC%9D%84-%ED%95%A0%EA%B9%8C)
 - [[우테코 8기] 안드로이드 소작농 &#39;조디악&#39;의 2레벨 1주차 회고 : 체력을 기르고 더 강해져온 나, 그런데..코딩은..](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%86%8C%EC%9E%91%EB%86%8D-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%B2%B4%EB%A0%A5%EC%9D%84-%EA%B8%B0%EB%A5%B4%EA%B3%A0-%EB%8D%94-%EA%B0%95%ED%95%B4%EC%A0%B8%EC%98%A8-%EB%82%98-%EA%B7%B8%EB%9F%B0%EB%8D%B0..%EC%BD%94%EB%94%A9%EC%9D%80)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chohs4164/chohs4164/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
