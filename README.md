@@ -74,9 +74,9 @@ When adopting new tech stacks or design patterns, I always start with the questi
   <a href="mailto:josh100as@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-767774356?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/%ED%98%84%EC%8A%B9-%EC%A1%B0-767774356/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="https://velog.io/@chohs4164/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
