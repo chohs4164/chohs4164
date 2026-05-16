@@ -76,15 +76,6 @@ When adopting new tech stacks or design patterns, I always start with the questi
 
 ---
 
-## 🏆 Solved.ac Stats
-<p align="center">
-  <a href="https://solved.ac/chohs4164">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chohs4164" alt="Solved.ac Badge" />
-  </a>
-</p>
-
----
-
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
