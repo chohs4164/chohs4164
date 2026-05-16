@@ -65,7 +65,6 @@ When adopting new tech stacks or design patterns, I always start with the questi
 ---
 
 ## 📰 Latest Blog Posts
-
 ---
 
 ## 📫 Connect with Me
