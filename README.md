@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=B19CD9&height=250&section=header&text=HyunSeung%20Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=HyunSeung%20Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
