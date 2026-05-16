@@ -1,3 +1,9 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chohs4164"/>
+</a>
+
+---
+
 # 🚀 Hello, I'm Hyun-seung Cho!
 
 
@@ -8,12 +14,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Enthusiast;Building+Sustainable+Architecture;Always+Asking+Why" alt="Typing SVG" />
 </p>
-
----
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chohs4164"/>
-</a>
 
 ---
 
