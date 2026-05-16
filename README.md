@@ -1,84 +1,93 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/chohs4164"/>
-</a>
-
----
-
-# 🚀 Hello, I'm Hyun-seung Cho!
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=HyunSeung%20Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
+## :wave: About Me
+
+> **Android Developer focused on clean architecture and state-driven UI**
+> _Currently pursuing Computer Science, deep diving into collaborative engineering cultures._
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Enthusiast;Building+Sustainable+Architecture;Always+Asking+Why" alt="Typing SVG" />
+  <i>"Code that works. Architecture that lasts."</i>
 </p>
+
+- :computer: **What I Do:** I love designing Android applications, practicing strict separation of concerns, and writing scalable, Object-Oriented code.
+- :handshake: **My Passion:** I am deeply passionate about communication, bridging ideas, and building a healthy engineering culture where people grow together.
 
 ---
 
-## 👋 About Me
-> **Android Developer focused on clean architecture and state-driven UI**  
-> *Currently pursuing Computer Science, deep diving into collaborative engineering cultures.*
+## :fire: Current Focus & Core Values
 
-<p align="center">
-  <i>"Code that works. Architecture that lasts."</i>
-</p>
+### :building_construction: Sustainable Architecture
 
-* 💻 **What I Do:** I love designing Android applications, practicing strict separation of concerns, and writing scalable, Object-Oriented code.
-* 🤝 **My Passion:** I am deeply passionate about communication, bridging ideas, and building a healthy engineering culture where people grow together.
-
----
-
-## 🔥 Current Focus & Core Values
-
-### 🏗️ Sustainable Architecture
 I aim beyond "just working code." I strive to design software structures that are highly readable, intuitive, and maintainable for my team members in the long run.
 
-### 🌱 Healthy Collaboration
-Inspired by the philosophy of *"Growing Together,"* I actively participate in pair programming and deep code reviews. I constantly think about how to give and receive productive, constructive feedback.
+### :seedling: Healthy Collaboration
 
-### 🎯 First-Principles Deep Dive
+Inspired by the philosophy of _"Growing Together,"_ I actively participate in pair programming and deep code reviews. I constantly think about how to give and receive productive, constructive feedback.
+
+### :dart: First-Principles Deep Dive
+
 When adopting new tech stacks or design patterns, I always start with the question, **"Why do we need this structure?"** and dissect the root problem until I fully comprehend it.
 
 ---
 
-## 🛠 Tech Stack
+## :hammer_and_wrench: Tech Stack
 
-### 🤖 Android & Core Libraries
+### :robot_face: Android & Core Libraries
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-### 💻 Languages & Frontend
+### :computer: Languages & Frontend
+
 <p align="left">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Tools & IDEs
+### :gear: Tools & IDEs
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## 📰 Latest Blog Posts
+## :mailbox: Connect with Me
+
+<p align="left">
+  <a href="mailto:josh100as@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-767774356?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://velog.io/@chohs4164/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+</p>
+
+---
+
+## :newspaper: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [[우테코 8기] 조디악의 2레벨 3주차 회고: 정신없이 달리다 보니 어느새 지나가버린 한 주](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%A0%95%EC%8B%A0%EC%97%86%EC%9D%B4-%EB%8B%AC%EB%A6%AC%EB%8B%A4-%EB%B3%B4%EB%8B%88-%EC%96%B4%EB%8A%90%EC%83%88-%EC%A7%80%EB%82%98%EA%B0%80%EB%B2%84%EB%A6%B0-%ED%95%9C-%EC%A3%BC)
 - [[우테코 8기] 조디악의 2레벨 2주차 회고 : 잘하고 있는지는 모르겠지만 계속 나아가는 중](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EC%A7%80%EB%8A%94-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%A7%80%EB%A7%8C-%EA%B3%84%EC%86%8D-%EB%82%98%EC%95%84%EA%B0%80%EB%8A%94-%EC%A4%91)
 - [Compose 개발자가 꼭 알아야 할 기초 지식: 단위&lpar;px, dp, sp&rpar;와 데이터 관리 전략](https://velog.io/@chohs4164/Compose-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%BC%AD-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B8%B0%EC%B4%88-%EC%A7%80%EC%8B%9D-%EB%8B%A8%EC%9C%84px-dp-sp%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EB%A6%AC-%EC%A0%84%EB%9E%B5)
@@ -88,23 +97,14 @@ When adopting new tech stacks or design patterns, I always start with the questi
 
 ---
 
-## 🐍 Contribution Snake
+## :snake: Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chohs4164/chohs4164/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/chohs4164/chohs4164/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="mailto:josh100as@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/%ED%98%84%EC%8A%B5-%EC%A1%B0-767774356?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://velog.io/@chohs4164/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
-  </a>
-</p>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chohs4164"/>
+</a>
