@@ -5,6 +5,10 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=B19CD9&height=250&section=header&text=HyunSeung%20Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Enthusiast;Building+Sustainable+Architecture;Always+Asking+Why" alt="Typing SVG" />
+</p>
+
 ---
 
 <a href="https://github.com/devxb/gitanimals">
@@ -12,10 +16,6 @@
 </a>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B19CD9&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Enthusiast;Building+Sustainable+Architecture;Always+Asking+Why" alt="Typing SVG" />
-</p>
 
 ## 👋 About Me
 > **Android Developer focused on clean architecture and state-driven UI**  
