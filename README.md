@@ -89,12 +89,12 @@ When adopting new tech stacks or design patterns, I always start with the questi
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[우테코 8기] 조디악의 2레벨 6주차 회고: 가설이 깨지고, 방향이 다시 잡힌 한 주](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EA%B0%80%EC%84%A4%EC%9D%B4-%EA%B9%A8%EC%A7%80%EA%B3%A0-%EB%B0%A9%ED%96%A5%EC%9D%B4-%EB%8B%A4%EC%8B%9C-%EC%9E%A1%ED%9E%8C-%ED%95%9C-%EC%A3%BC)
 - [[우테코 8기] 조디악의 2레벨 5주차 회고: 좋은 프로젝트는 질문에서 시작된다](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%A2%8B%EC%9D%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%8A%94-%EC%A7%88%EB%AC%B8%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4)
 - [[우테코 8기] 조디악의 2레벨 4주차 회고:
 집중하려고는 했습니다](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%A7%91%EC%A4%91%ED%95%98%EB%A0%A4%EA%B3%A0%EB%8A%94-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 - [리플렉션&lpar;Reflection&rpar;](https://velog.io/@chohs4164/%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98Reflection)
 - [[우테코 8기] 조디악의 2레벨 3주차 회고: 정신없이 달리다 보니 어느새 지나가버린 한 주](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%A0%95%EC%8B%A0%EC%97%86%EC%9D%B4-%EB%8B%AC%EB%A6%AC%EB%8B%A4-%EB%B3%B4%EB%8B%88-%EC%96%B4%EB%8A%90%EC%83%88-%EC%A7%80%EB%82%98%EA%B0%80%EB%B2%84%EB%A6%B0-%ED%95%9C-%EC%A3%BC)
-- [[우테코 8기] 조디악의 2레벨 2주차 회고 : 잘하고 있는지는 모르겠지만 계속 나아가는 중](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EC%A7%80%EB%8A%94-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%A7%80%EB%A7%8C-%EA%B3%84%EC%86%8D-%EB%82%98%EC%95%84%EA%B0%80%EB%8A%94-%EC%A4%91)
 <!-- BLOG-POST-LIST:END -->
 
 ---
