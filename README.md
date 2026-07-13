@@ -89,11 +89,11 @@ When adopting new tech stacks or design patterns, I always start with the questi
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [우아한바톤 2026 참여 후기](https://velog.io/@chohs4164/%EC%9A%B0%EC%95%84%ED%95%9C%EB%B0%94%ED%86%A4-2026-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
 - [SYNC 밋업 행사 후기](https://velog.io/@chohs4164/SYNC-%EB%B0%8B%EC%97%85-%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0)
 - [[우테코 8기] 조디악의 2레벨 9주차 회고: 끝나는 줄 알았는데, 돌아볼 게 많았다](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-9%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EB%81%9D%EB%82%98%EB%8A%94-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EB%8F%8C%EC%95%84%EB%B3%BC-%EA%B2%8C-%EB%A7%8E%EC%95%98%EB%8B%A4)
 - [[우테코 8기] 조디악의 2레벨 8주차 회고: 별일 없는 줄 알았는데, 마무리는 꽤 바빴다](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-8%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EB%B3%84%EC%9D%BC-%EC%97%86%EB%8A%94-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0-%EB%A7%88%EB%AC%B4%EB%A6%AC%EB%8A%94-%EA%BD%A4-%EB%B0%94%EB%B9%B4%EB%8B%A4)
 - [우아한테크코스 8기 안드로이드 레벨 2 회고록 - 모른다고 말하고 나서야 배울 수 있었다](https://velog.io/@chohs4164/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%A0%88%EB%B2%A8-2-%ED%9A%8C%EA%B3%A0%EB%A1%9D-%EB%AA%A8%EB%A5%B8%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%95%98%EA%B3%A0-%EB%82%98%EC%84%9C%EC%95%BC-%EB%B0%B0%EC%9A%B8-%EC%88%98-%EC%9E%88%EC%97%88%EB%8B%A4)
-- [[우테코 8기] 조디악의 2레벨 7주차 회고: 개발자는 코드만 잘 짜면 될까?](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-2%EB%A0%88%EB%B2%A8-7%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%BD%94%EB%93%9C%EB%A7%8C-%EC%9E%98-%EC%A7%9C%EB%A9%B4-%EB%90%A0%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ---
