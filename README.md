@@ -89,11 +89,11 @@ When adopting new tech stacks or design patterns, I always start with the questi
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [# 우테코 8기 조디악의 레벨 3 5주차 회고 — 서비스가 처음 사용자에게 닿는 순간](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-3-5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EC%B2%98%EC%9D%8C-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%97%90%EA%B2%8C-%EB%8B%BF%EB%8A%94-%EC%88%9C%EA%B0%84)
 - [레벨 3 4주차 회고 - 아이디어를 넘어, 함께 만드는 서비스의 시작](https://velog.io/@chohs4164/%EB%A0%88%EB%B2%A8-3-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%EB%84%98%EC%96%B4-%ED%95%A8%EA%BB%98-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%8B%9C%EC%9E%91)
 - [우테코 8기 조디악의 레벨 3 3주차 회고 - 내가 만든 아이디어를 내려놓는 선택](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-3-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%EB%82%B4%EB%A0%A4%EB%86%93%EB%8A%94-%EC%84%A0%ED%83%9D)
 - [우테코 8기 조디악의 3레벨 2주차 회고 - 좋은 해결책보다 먼저, 좋은 가설을 만들기](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-3%EB%A0%88%EB%B2%A8-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%A2%8B%EC%9D%80-%ED%95%B4%EA%B2%B0%EC%B1%85%EB%B3%B4%EB%8B%A4-%EB%A8%BC%EC%A0%80-%EC%A2%8B%EC%9D%80-%EA%B0%80%EC%84%A4%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [GDG Korea Android: 2026 I/O Extended 후기](https://velog.io/@chohs4164/GDG-Korea-Android-2026-IO-Extended-%ED%9B%84%EA%B8%B0)
-- [[우테코 8기] 조디악의 3레벨 1주차 회고: 만들기 전에 먼저 부딪혀보기](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-3%EB%A0%88%EB%B2%A8-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%A8%BC%EC%A0%80-%EB%B6%80%EB%94%AA%ED%98%80%EB%B3%B4%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
