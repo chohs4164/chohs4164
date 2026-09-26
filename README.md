@@ -89,11 +89,11 @@ When adopting new tech stacks or design patterns, I always start with the questi
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[우테코 8기] 조디악의 레벨 4 2주차 회고: 사흘짜리 한 주, 몸이 먼저 멈춰 섰다](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-4-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%82%AC%ED%9D%98%EC%A7%9C%EB%A6%AC-%ED%95%9C-%EC%A3%BC-%EB%AA%B8%EC%9D%B4-%EB%A8%BC%EC%A0%80-%EB%A9%88%EC%B6%B0-%EC%84%B0%EB%8B%A4)
 - [[우테코 8기] 조디악의 레벨 4 1주차 회고: 만드는 것에서, 쓰이게 하는 것으로](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-4-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B2%83%EC%97%90%EC%84%9C-%EC%93%B0%EC%9D%B4%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B2%83%EC%9C%BC%EB%A1%9C)
 - [지도 위의 한 점을 맞추는 동안, 팀의 좌표도 맞춰갔다](https://velog.io/@chohs4164/%EC%A7%80%EB%8F%84-%EC%9C%84%EC%9D%98-%ED%95%9C-%EC%A0%90%EC%9D%84-%EB%A7%9E%EC%B6%94%EB%8A%94-%EB%8F%99%EC%95%88-%ED%8C%80%EC%9D%98-%EC%A2%8C%ED%91%9C%EB%8F%84-%EB%A7%9E%EC%B6%B0%EA%B0%94%EB%8B%A4)
 - [GDG Korea Android Meetup에 다녀오다 - AI를 잘 쓴다는 건 무엇일까](https://velog.io/@chohs4164/GDG-Korea-Android-Meetup%EC%97%90-%EB%8B%A4%EB%85%80%EC%98%A4%EB%8B%A4-AI%EB%A5%BC-%EC%9E%98-%EC%93%B4%EB%8B%A4%EB%8A%94-%EA%B1%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 - [[우테코 8기] 조디악의 레벨 3 8주차 회고: 마지막에 남기고 싶은 것은 사람](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-3-8%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EB%A7%88%EC%A7%80%EB%A7%89%EC%97%90-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B2%83%EC%9D%80-%EC%82%AC%EB%9E%8C)
-- [[우테코 8기] 조디악의 레벨 3 7주차 회고: 삐걱거려도 다시 굴러가는 팀](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-3-7%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%82%90%EA%B1%B1%EA%B1%B0%EB%A0%A4%EB%8F%84-%EB%8B%A4%EC%8B%9C-%EA%B5%B4%EB%9F%AC%EA%B0%80%EB%8A%94-%ED%8C%80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
