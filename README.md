@@ -89,11 +89,11 @@ When adopting new tech stacks or design patterns, I always start with the questi
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[우테코 8기] 조디악의 레벨 5 1주차 회고: 같은 공간, 달라진 자리](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-5-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EA%B0%99%EC%9D%80-%EA%B3%B5%EA%B0%84-%EB%8B%AC%EB%9D%BC%EC%A7%84-%EC%9E%90%EB%A6%AC)
 - [[우테코 8기] 조디악의 레벨 4 9주차 회고: 함께 그린 지도 앞에서](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-4-9%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%ED%95%A8%EA%BB%98-%EA%B7%B8%EB%A6%B0-%EC%A7%80%EB%8F%84-%EC%95%9E%EC%97%90%EC%84%9C)
 - [[우테코 8기] 조디악의 레벨 4 8주차 회고: 지키고 싶은 생각, 바꾸고 싶은 태도](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-4-8%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%A7%80%ED%82%A4%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%83%9D%EA%B0%81-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%8B%B6%EC%9D%80-%ED%83%9C%EB%8F%84)
 - [[드로이드나이츠 2026] 스태프가 됐다. 일단 물부터 옮겼다](https://velog.io/@chohs4164/%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%82%98%EC%9D%B4%EC%B8%A0-2026-%EC%8A%A4%ED%83%9C%ED%94%84%EA%B0%80-%EB%90%90%EB%8B%A4.-%EC%9D%BC%EB%8B%A8-%EB%AC%BC%EB%B6%80%ED%84%B0-%EC%98%AE%EA%B2%BC%EB%8B%A4)
 - [[우테코 8기] 조디악의 레벨 4 7주차 회고: 열정은 180%, 뇌 토큰은 부족했다](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-4-7%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%EC%97%B4%EC%A0%95%EC%9D%80-180-%EB%87%8C-%ED%86%A0%ED%81%B0%EC%9D%80-%EB%B6%80%EC%A1%B1%ED%96%88%EB%8B%A4)
-- [[우테코 8기] 조디악의 레벨 4 6주차 회고: 함께 오래 달리고 싶은 마음](https://velog.io/@chohs4164/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%EC%A1%B0%EB%94%94%EC%95%85%EC%9D%98-%EB%A0%88%EB%B2%A8-4-6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0-%ED%95%A8%EA%BB%98-%EC%98%A4%EB%9E%98-%EB%8B%AC%EB%A6%AC%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%88%EC%9D%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ---
